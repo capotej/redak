@@ -1,0 +1,8 @@
+*.beam
+.eunit
+deps/*
+apps/redak/ebin
+*~
+dev/*
+doc/*
+rel/
